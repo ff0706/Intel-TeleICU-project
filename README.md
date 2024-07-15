@@ -14,7 +14,9 @@ Welcome to the Innovative Monitoring System for TeleICU Patients Using Video Pro
 
 # 2. Features
 Real-time Video Monitoring: Continuous monitoring of ICU patients through video feeds.
+
 Deep Learning Algorithms: Uses YOLOv8 for precise person classification and MediaPipe for detailed movement classification.
+
 Anomaly Detection: Detects abnormal patient behaviors such as falls, seizures, and breathlessness.
 
 # 3. System Architecture
